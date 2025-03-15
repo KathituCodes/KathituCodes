@@ -11,7 +11,7 @@
 
 - 🌱 I’m continuously enhancing my machine learning skills and developing end-to-end projects tailored for B2B solutions.
 
-- 📝📝 I regularly share articles on [LinkedIn](https://www.linkedin.com/in/urbanus-kathitu-19792a96/).
+- 📝 I regularly share articles on [LinkedIn](https://www.linkedin.com/in/urbanus-kathitu-19792a96/).
 
 - 📫 You can reach me via email listed on my GitHub overview page.
 
