@@ -19,13 +19,15 @@
     📫 You can reach me via email listed on my GitHub overview page.
 
 ## 📊 Skills
-    ✅ Data Cleaning, EDA, and Feature Engineering 
-    ✅ Predictive Modeling & Hyperparameter Tuning
-    ✅ Financial Dashboards & Data Visualization   
-    ✅ Recommender Systems 
-    ✅ NLP & Sentiment Analysis    
-    ✅ Time Series Forecasting & Market Basket Analysis  
-    ✅ AI Integration & Chatbot Development  
+    ✅ Programming & Visualization: Python, Excel, R, SQL
+    ✅ Database Management: MySQL, MongoDB, PostgreSQL
+    ✅ Data Visualization: Power BI, Tableau
+    ✅ Libraries & Frameworks: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow, PyTorch, XGBoost, LangChain, LlamaIndex, Haystack
+    ✅ ML & AI Techniques: Regression, Classification, Clustering, Cross-validation, Feature Engineering, Model Evaluation & Validation, Model Tuning, NLP, LLMs (OpenAI API), Retrieval-Augmented Generation (RAG), Chatbot & AI Assistant Development, Search Applications
+    ✅ Communication & Insights: Data storytelling, Communicating Results
+    ✅ Time Series Forecasting & Market Basket Analysis 
+    ✅ Tools: Git, Jupyter Notebooks, VS Code
+      
 
 <h3 align="left">You can connect with me on these platforms:</h3>
 <p align="left">
